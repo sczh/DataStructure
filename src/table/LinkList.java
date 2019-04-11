@@ -3,7 +3,7 @@ package table;
 import node.Node;
 
 /**
- * 链表类LinkList
+ *
  * 调用Node节点类
  */
 public class LinkList {
